@@ -22,6 +22,10 @@
     
 }
 
+.product{
+    position: relative;
+}
+
 .product-img{
     width: 100%;
 }
@@ -29,3 +33,32 @@
     color: red;
 }
 
+.product .product-discount{
+    position: absolute;
+    bottom: 60px;
+    left: 0;
+    background: red;
+    color: white;
+    font-size: 0.8rem;
+    padding: 4px 4px;
+}
+
+.product .product-label{
+    position: absolute;
+    bottom: 60px;
+    left: 40px;
+    background: green;
+    color: white;
+    font-size: 0.8rem;
+    padding: 4px 4px;
+}
+
+.product .product-label-special{
+    position: absolute;
+    bottom: 60px;
+    left: 0px;
+    background: green;
+    color: white;
+    font-size: 0.8rem;
+    padding: 4px 4px;
+}
