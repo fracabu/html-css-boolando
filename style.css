@@ -19,6 +19,7 @@
 
 .col{
     flex-basis: calc((100% - 2rem) / 3)
+    
 }
 
 .product-img{
