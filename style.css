@@ -69,4 +69,12 @@
     left: 40px;
     font-size: 0.8rem;
     text-decoration: line-through;
+}  
+
+.product .product-favorite {
+    position: absolute;
+    top: 4px;
+    right: 0px;
+    padding: 8px 10px;
+    background: white;
 }
