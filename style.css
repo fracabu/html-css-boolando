@@ -87,3 +87,14 @@
 .product .product-favorite.active{
     fill: red;
 }
+
+.product .product-img-hover{
+    display: none;
+}
+.product:hover .product-img-hover{
+    display: block;
+}
+
+.product:hover .product-img-default{
+    display: none;
+}
