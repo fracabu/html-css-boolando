@@ -90,6 +90,7 @@
 
 .product .product-img-hover{
     display: none;
+    width: 100%;
 }
 .product:hover .product-img-hover{
     display: block;
