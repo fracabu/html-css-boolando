@@ -62,3 +62,11 @@
     font-size: 0.8rem;
     padding: 4px 4px;
 }
+
+.product .product-price-barrato{
+    position: absolute;
+    bottom: 0;
+    left: 40px;
+    font-size: 0.8rem;
+    text-decoration: line-through;
+}
